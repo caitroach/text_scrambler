@@ -15,10 +15,11 @@ For instance, take the incomplete sentence *Cait goes*. An LLM forms predictions
 
 However, LLMs don't just pick the token with the highest probability score; that'd make them sound dull and repetitive. Instead, randomness is introduced through temperature, which scales the probability distribution of the next predicted token before selection. Low values (0.0-0.3) produce deterministic responses, while high values (0.7 and up) produce unpredictability. 
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/5c1accf2-3e9f-4db8-a3a1-ea77255f260d" />
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/115ed244-5115-46f0-871f-222fd592b086" />
+<img alt="image" src="https://github.com/user-attachments/assets/5c1accf2-3e9f-4db8-a3a1-ea77255f260d" />
+<img alt="image" src="https://github.com/user-attachments/assets/115ed244-5115-46f0-871f-222fd592b086" />
+
 *images via (Daily Dose of Data Science)[https://www.dailydoseofds.com/p/what-is-temperature-in-llms/]*
 
 Temperature is used in a mathematical formula that determines the next token: 
-<img width="800"  alt="image" src="https://github.com/user-attachments/assets/1cc2aeb4-7b98-4a66-bfa1-35fb7444543e" />
+<img alt="image" src="https://github.com/user-attachments/assets/1cc2aeb4-7b98-4a66-bfa1-35fb7444543e" />
 *image via (Coqueret et. al., 2026)[https://arxiv.org/pdf/2607.24372]*
