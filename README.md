@@ -2,7 +2,7 @@
 You may have heard that Anthropic is introducing undetectable "watermarks" into all outputs, at the model level. The watermark is invisible, does not change meaning or quality, and can survive copy-pasting, editing, reformatting, and even re-typing. This is not, as I originally thought, due to the insertion of invisible Unicode characters ([which are really easy to find with free online tools](https://www.soscisurvey.de/tools/view-chars.php)) into output text. 
 
 <img width="1039" height="365" alt="image" src="https://github.com/user-attachments/assets/d13979bc-8990-4712-92c6-f3b06d9e485a" />
-_see it's super simple_
+*see it's super simple*
 
 
 So how does it work?
